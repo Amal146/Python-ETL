@@ -1,0 +1,141 @@
+id,name,manager_id
+23,Tools (JBoss Tools),274
+24,SwitchYard,299
+25,CDI TCK,324
+26,JBoss Tools Integration Stack,349
+27,WildFly,374
+28,AeroGear,399
+29,Forge,424
+30,Errai,449
+31,Seam 2,474
+32,GateIn Portal,499
+33,RichFaces,524
+34,Documentation for JBoss Tools and Developer Studio,549
+35,JBoss Enterprise Application Platform 6,574
+36,Arquillian,599
+37,Undertow,624
+38,Developer Studio (JBoss Developer Studio),649
+39,Guvnor,674
+40,Application Server 7,699
+41,Teiid,724
+42,HornetQ,749
+43,Infinispan,774
+44,Teiid Designer,799
+45,Weld,824
+46,IronJacamar,849
+47,AeroGear Push,874
+48,Drools,899
+49,FUSE Services Framework,924
+50,JBoss Developer Framework,949
+51,ModeShape Tools,974
+52,ShrinkWrap,999
+53,JBoss Log Manager,1024
+54,Red Hat JBoss Fuse,1049
+55,Fuse IDE,1074
+56,PicketLink,1099
+57,Fuse MQ Enterprise,1124
+58,JGroups,1149
+59,RichFaces Planning,1174
+60,Tajo,1199
+61,ShrinkWrap Resolvers,1224
+62,PicketBox ,1249
+63,FUSE Mediation Router,1274
+64,Jipijapa,1299
+65,jboss.org,1324
+66,CapeDwarf,1349
+67,RTGov (Run Time Governance),1374
+68,JBoss Transaction Manager,1399
+69,JBoss WFK 2,1424
+70,Aesh,1449
+71,CDI Specification Issues,1474
+72,Railo,1499
+73,Keycloak,1524
+74,Immutant,1549
+75,JBoss Web Services,1574
+76,JBoss JavaEE Spec APIs,1599
+77,ModeShape,1624
+78,HAL,1649
+79,Migration,1674
+80,JBoss OSGi,1699
+81,AeroGear Android,1724
+82,jBPM,1749
+83,S-RAMP,1774
+84,TorqueBox,1799
+85,EJB Client Library (AS7+),1824
+86,OpenShift Java Client,1849
+87,AeroGear JavaScript,1874
+88,AeroGear iOS,1899
+89,Arquillian Graphene,1924
+90,Agorava,1949
+91,JBoss Enterprise Application Platform 4 and 5,1974
+92,DTGov (Design Time Governance),1999
+93,Forge Plugins,2024
+94,Gadget Server and Gadgets,2049
+95,Enterprise Maven Repository (Project Wolf),2074
+96,Byteman,2099
+97,Remoting JMX,2124
+98,Visual Design,2149
+99,OptaPlanner,2174
+100,JBoss Metadata,2199
+101,Remoting 3,2224
+102,AeroGear Security,2249
+103,RESTEasy,2274
+104,JBoss Marshalling,2299
+105,Hot Rod C++ client,2324
+106,JBoss VFS,2349
+107,Narayana Transaction Analyser,2374
+108,JBoss ESB,2399
+109,PicketLink v2,2424
+110,JBoss Enterprise Application Platform,2449
+111,Modular Service Container,2474
+112,BoxGrinder Build,2499
+113,JBoss Modules,2524
+114,JBoss AS Maven Plugins,2549
+115,LiveOak,2574
+116,JBoss Common,2599
+117,GateIn Management,2624
+118,PicketLink IDM,2649
+119,AeroGear SimplePush,2674
+120,Snowdrop,2699
+121,Javassist,2724
+122,JBoss Web,2749
+123,RichFaces Sandbox,2774
+124,mod_cluster,2799
+125,WildFly Camel,2824
+126,Savara,2849
+127,S-RAMP UI,2874
+128,jBeret,2899
+129,Wise,2924
+130,Blacktie,2949
+131,XNIO,2974
+132,Application Server 3  4  5 and 6,2999
+133,Teiid Dashboard,3024
+134,Celix,3049
+135,ShrinkWrap Descriptors,3074
+136,Solder,3099
+137,JBoss Serialization,3124
+138,User Experience,3149
+139,BPM Console,3174
+140,Seam Faces,3199
+141,Forge: Stomp,3224
+142,GateIn SSO,3249
+143,Lucene - Core,3274
+144,JBoss Messaging,3299
+145,Portlet Bridge,3324
+146,Teiid RHQ Console,3349
+147,RiftSaw,3374
+148,GateIn WSRP,3399
+149,JBoss Profiler,3424
+150,Openmeetings,3449
+151,Guvnor SOA,3474
+152,JBoss.org Build/License tracker,3499
+153,JBoss Genetic,3524
+154,UIMA,3549
+155,Solr,3574
+156,DMR,3599
+157,Qpid Proton,3624
+158,Log Tool,3649
+159,Sqoop,3674
+160,Fuse Portable Runtime,3699
+161,FUSE ESB,3724
+162,JBoss JMX,3749
