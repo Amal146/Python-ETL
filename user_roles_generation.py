@@ -26,7 +26,7 @@ with open(r'C:\Users\ajawahdou\python ETL\data\synthetic_users_roles.csv', 'w', 
         ])
 
     i = 100
-    role_id = 3
+    role_id = 2
     # Add manager role for random new users
     for _ in range(nbApps):
         if (dataset['assignee_id'].eq(i).any()) : 
@@ -41,6 +41,5 @@ with open(r'C:\Users\ajawahdou\python ETL\data\synthetic_users_roles.csv', 'w', 
         ])
 
    
-
 
 

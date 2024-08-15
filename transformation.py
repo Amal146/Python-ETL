@@ -58,6 +58,10 @@ dataset['assignee_id'] = dataset['assignee_id'].apply(
 
 
 
+# Filter out rows where 'status' values are not in the specified replacements
+valid_type = ['Error', 'Fail', 'Not working','Slow','Bug']
+dataset = dataset[dataset['type'].isin(valid_type)]
+print(dataset.size)
 
 # Add new column 'solutionDescription' with short solutions based on 'description'
 def suggest_solution(description):
@@ -74,7 +78,9 @@ def suggest_solution(description):
     else:
         return 'Investigate the issue thoroughly.'
 
+
 dataset['solutionDescription'] = dataset['description'].apply(suggest_solution)
+print(dataset['solutionDescription'])
 dataset.drop(columns=['type'], inplace=True)
 
 # Add new app_id column
@@ -96,7 +102,7 @@ dataset = dataset[final_columns]
 
 # Save the filtered data to a new CSV file
 output_csv_path = r"C:\Users\ajawahdou\python ETL\data\transformed_dataset.csv"
-sampled_dataset = dataset.sample(n=4000, random_state=1)
+sampled_dataset = dataset.sample(n=2808, random_state=1)
 sampled_dataset.to_csv(output_csv_path, index=False)
 
 # Display CSV Data after transformation
